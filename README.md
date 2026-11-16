@@ -92,3 +92,18 @@ See `requirements.txt` for the recorded package versions.
 ## Safety
 
 All irreversible actions were evaluated in a simulated environment. No real files, email accounts, financial accounts, or external services were used for irreversible actions.
+
+## Reproducibility Artifacts
+
+The complete experiment artifacts are available through Google Drive:
+
+[Download ADNN Reproducibility Artifacts](https://drive.google.com/file/d/1JN43qpDSjeNc2vcdgPJo4di1IfTbvNpM/view?usp=sharing)
+
+The archive includes:
+- Extracted model hidden states
+- Trained linear probes
+- RQ3 experiment results and agent logs
+- Paired analysis and summary metrics
+- Generated experiment figures
+
+
