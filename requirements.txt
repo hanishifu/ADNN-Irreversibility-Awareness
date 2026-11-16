@@ -1,0 +1,7 @@
+
+Python==3.13.16
+torch==2.14.1+cu130
+transformers==5.22.1
+bitsandbytes==0.50.2
+scikit-learn==1.6.1
+pandas==2.2.3
